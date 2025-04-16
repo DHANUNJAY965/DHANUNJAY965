@@ -1,25 +1,89 @@
-# 💫 About Me:
-Full-stack developer specializing in the MERN stack and Next.js, with experience building and deploying scalable web applications. Currently passionate about and learning Web3 technologies, while delivering clean, efficient code.
-
-Check out my portfolio: [https://dhanu-portfolio-app.vercel.app/](https://dhanu-portfolio-app.vercel.app/)
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/myself_dhanunjay?igsh=eWFkZWcxZmg2cHBu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanunjay-burada-908494241/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/DhanunjayInCode) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DHANUNJAY965&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DHANUNJAY965&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHANUNJAY965&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=DHANUNJAY965&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dhanunjayworks) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/DBuarada) 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhanunjay%20Burada&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <a href="https://dhanu-portfolio-app.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3AAEE2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Expert+%26+Next.js+Enthusiast;Building+Web3+Solutions;Clean+Code+Advocate" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  Full-stack developer passionate about creating scalable and efficient web applications with the MERN stack and Next.js. Currently diving deep into Web3 technologies while maintaining a focus on delivering clean, user-friendly solutions. Open to collaborations and freelance opportunities.
+</p>
+
+<div align="center">
+  <a href="https://dhanu-portfolio-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<hr>
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,rust&theme=dark" alt="Languages" />
+  
+  <h3>🌐 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,materialui&theme=dark" alt="Frontend" />
+  
+  <h3>⚙️ Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redis&theme=dark" alt="Backend" />
+  
+  <h3>🚀 DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku,docker,git,github,postman&theme=dark" alt="DevOps and Tools" />
+  
+  <h3>🔥 Currently Exploring</h3>
+  <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=solana,reactnative,django"
+    />
+</div>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DHANUNJAY965&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<hr>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhanunjay-burada-908494241/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/DhanunjayInCode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/myself_dhanunjay?igsh=eWFkZWcxZmg2cHBu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dhanu-portfolio-app.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio" />
+  </a>
+</div>
+
+<hr>
+
+## 💖 Support My Work
+
+<div align="center">
+  <a href="https://buymeacoffee.com/dhanunjayworks" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://www.paypal.me/DBuarada" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+</div>
