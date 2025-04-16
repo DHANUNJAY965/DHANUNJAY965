@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dhanunjay%20Burada&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
   
   <a href="https://dhanu-portfolio-app.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3AAEE2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Expert+%26+Next.js+Enthusiast;Building+Web3+Solutions;Clean+Code+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3AAEE2&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Expert;Building+Web3+Solutions;" alt="Typing SVG" />
   </a>
 </div>
 
