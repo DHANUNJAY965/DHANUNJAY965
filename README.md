@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-   Passionate full-stack web developer skilled in building robust, scalable applications using the MERN stack and Next.js. I've collaborated on freelance projects, contributed to open-source initiatives, and gained practical startup experience. Lately, I’ve been diving into the world of real-time communications, WebRTC, and decentralized development on Solana.
+ IFull-stack developer who learns by building. From working with early-stage startups to contributing to open-source and freelance projects, I’ve picked up experience where it matters most—on the job. My go-to stack is MERN and Next.js, but I’ve recently been diving into WebRTC and Solana to explore real-time and decentralized apps
 </p>
 
 <div align="center">
