@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
- IFull-stack developer who learns by building. From working with early-stage startups to contributing to open-source and freelance projects, I’ve picked up experience where it matters most—on the job. My go-to stack is MERN and Next.js, but I’ve recently been diving into WebRTC and Solana to explore real-time and decentralized apps
+ Full-stack developer who learns by building. From working with early-stage startups to contributing to open-source and freelance projects, I’ve picked up experience where it matters most—on the job. My go-to stack is MERN and Next.js, but I’ve recently been diving into WebRTC and Solana to explore real-time and decentralized apps
 </p>
 
 <div align="center">
